@@ -14,12 +14,12 @@
   $pkg install git
 ```
 ```
-  $git clone https://github.com/megatruh/malproject
+  $git clone https://github.com/sueb29/malproject
 ```
 # use 
 ```
-$cd alfood
+$cd food
 ```
 ```
-$php alfood.php
+$php food.php
 ```
